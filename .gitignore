@@ -1,0 +1,6 @@
+Audio/
+tests/
+img/
+img_converter.py
+.venv/
+__pycache__/
