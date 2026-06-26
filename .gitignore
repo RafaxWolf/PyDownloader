@@ -1,0 +1,6 @@
+Audio/
+frontend/
+img/
+*venv/
+*__init__.py
+node_modules/
